@@ -1,0 +1,113 @@
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/NUnit3.TestAdapter.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/NUnit3.TestAdapter.pdb
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/nunit.engine.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/nunit.engine.api.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/nunit.engine.core.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/testcentric.engine.metadata.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/NUnit Test Project.deps.json
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/NUnit Test Project.runtimeconfig.json
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/NUnit Test Project.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/NUnit Test Project.pdb
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/BoDi.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/SeleniumExtras.WaitHelpers.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/Gherkin.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/Microsoft.TestPlatform.Utilities.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/testhost.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/nunit.framework.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/WebDriver.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/TechTalk.SpecFlow.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/SpecFlow.Internal.Json.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/System.Security.Permissions.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/runtimes/linux/native/selenium-manager
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/runtimes/osx/native/selenium-manager
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/runtimes/win/native/selenium-manager.exe
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/bin/Debug/net8.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/obj/Debug/net8.0/NUnit Test Project.csproj.AssemblyReference.cache
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/obj/Debug/net8.0/NUnit Test Project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/obj/Debug/net8.0/NUnit Test Project.AssemblyInfoInputs.cache
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/obj/Debug/net8.0/NUnit Test Project.AssemblyInfo.cs
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/obj/Debug/net8.0/NUnit Test Project.csproj.CoreCompileInputs.cache
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/obj/Debug/net8.0/NUnit Te.FE588015.Up2Date
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/obj/Debug/net8.0/NUnit Test Project.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/obj/Debug/net8.0/refint/NUnit Test Project.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/obj/Debug/net8.0/NUnit Test Project.pdb
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/obj/Debug/net8.0/NUnit Test Project.genruntimeconfig.cache
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/obj/Debug/net8.0/ref/NUnit Test Project.dll
