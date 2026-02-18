@@ -111,3 +111,4 @@
 /Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/obj/Debug/net8.0/NUnit Test Project.pdb
 /Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/obj/Debug/net8.0/NUnit Test Project.genruntimeconfig.cache
 /Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/obj/Debug/net8.0/ref/NUnit Test Project.dll
+/Users/kadin/Desktop/c#/NUnit Test Project/NUnit Test Project/obj/Debug/net8.0/NUnit Test Project.sourcelink.json

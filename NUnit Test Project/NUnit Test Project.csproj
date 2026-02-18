@@ -18,9 +18,5 @@
     <PackageReference Include="Selenium.WebDriver.ChromeDriver" Version="145.0.7632.7600" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="ExceptionTests\" />
-  </ItemGroup>
-
 </Project>
 
